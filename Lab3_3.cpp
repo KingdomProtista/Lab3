@@ -2,8 +2,10 @@
 using namespace std;
     int main()
     {
-        int x;
-        while(x)
+        int x=2;
+        while(x<70){
+            cout
+        }
         return 0;
     }
     
