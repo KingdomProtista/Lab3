@@ -2,11 +2,10 @@
 using namespace std;
     int main()
     {
-        int x=2;
-        float sum;
+        double x=2,sum=0;
         while(x<70){
-            x=x+1;
             sum=1/x+sum;
+            x=x+1;
         }
         cout<<sum;
         return 0;
